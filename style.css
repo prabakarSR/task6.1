@@ -1,0 +1,41 @@
+.h3{
+    padding: 50px;
+}
+.h1{
+    padding: 25px;
+}
+.main{
+    border-color: black;
+}
+.button{
+    padding: 20px;
+}
+.num{
+    padding: 10px;
+
+}
+.num2{
+   padding: 20px;
+}
+.num3{
+    margin: 10px;
+}
+.body{
+    margin: 20px 20px 0px 20px ;
+}
+.num4{
+    margin: 200px;
+    padding: 25px;
+    text-align: right;
+}
+.vara{
+    padding: 10px 155px 10px 10px;
+}
+.imge{
+    border: 5px;
+    border-color: black;
+    position: absolute;
+    left: 350px;
+    top: 500px;
+   
+}
